@@ -1,0 +1,160 @@
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\bin\Debug\Login.exe.config
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\bin\Debug\Login.exe
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\bin\Debug\Login.pdb
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\obj\Debug\QLNT.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\obj\Debug\QLNT.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\obj\Debug\Login.Form1.resources
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\obj\Debug\QLNT.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\obj\Debug\QLNT.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\obj\Debug\Login.exe
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\obj\Debug\Login.pdb
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\obj\Debug\Login.Admin.resources
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\obj\Debug\Login.AddUser.resources
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\bin\Debug\EnvDTE.dll
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\bin\Debug\stdole.dll
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\obj\Debug\QLNT.csproj.CopyComplete
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\obj\Debug\Login.DeleteUser.resources
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\obj\Debug\Login.AddCustomer.resources
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\obj\Debug\Login.DeleteCustomer.resources
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\obj\Debug\Login.EditCustomer.resources
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\obj\Debug\Login.EditUser.resources
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\obj\Debug\Login.AddSup.resources
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\obj\Debug\Login.EditSup.resources
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\obj\Debug\Login.DeleteSup.resources
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\obj\Debug\Login.User.resources
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\obj\Debug\Login.ManageMed.resources
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\obj\Debug\Login.ManageReceipt.resources
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\obj\Debug\Login.HDNhapHang.resources
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\obj\Debug\Login.ManageBill.resources
+C:\Users\ADMIN\source\repos\BTLQuanLyNhaThuoc\Login\obj\Debug\Login.HDXuatHang.resources
+F:\bài tập\BTLQuanLyNhaThuoc\Login\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\bài tập\BTLQuanLyNhaThuoc\Login\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\bài tập\BTLQuanLyNhaThuoc\Login\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\bài tập\BTLQuanLyNhaThuoc\Login\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\bài tập\BTLQuanLyNhaThuoc\Login\bin\Debug\Login.exe.config
+F:\bài tập\BTLQuanLyNhaThuoc\Login\bin\Debug\Login.exe
+F:\bài tập\BTLQuanLyNhaThuoc\Login\bin\Debug\Login.pdb
+F:\bài tập\BTLQuanLyNhaThuoc\Login\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\bài tập\BTLQuanLyNhaThuoc\Login\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\bài tập\BTLQuanLyNhaThuoc\Login\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\bài tập\BTLQuanLyNhaThuoc\Login\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\bài tập\BTLQuanLyNhaThuoc\Login\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\bài tập\BTLQuanLyNhaThuoc\Login\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\bài tập\BTLQuanLyNhaThuoc\Login\bin\Debug\EnvDTE.dll
+F:\bài tập\BTLQuanLyNhaThuoc\Login\bin\Debug\stdole.dll
+F:\bài tập\BTLQuanLyNhaThuoc\Login\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\bài tập\BTLQuanLyNhaThuoc\Login\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\bài tập\BTLQuanLyNhaThuoc\Login\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\bài tập\BTLQuanLyNhaThuoc\Login\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\bài tập\BTLQuanLyNhaThuoc\Login\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\bài tập\BTLQuanLyNhaThuoc\Login\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\bài tập\BTLQuanLyNhaThuoc\Login\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\bài tập\BTLQuanLyNhaThuoc\Login\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\bài tập\BTLQuanLyNhaThuoc\Login\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\bài tập\BTLQuanLyNhaThuoc\Login\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\bài tập\BTLQuanLyNhaThuoc\Login\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\bài tập\BTLQuanLyNhaThuoc\Login\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\bài tập\BTLQuanLyNhaThuoc\Login\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\bài tập\BTLQuanLyNhaThuoc\Login\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\bài tập\BTLQuanLyNhaThuoc\Login\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\bài tập\BTLQuanLyNhaThuoc\Login\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\bài tập\BTLQuanLyNhaThuoc\Login\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\bài tập\BTLQuanLyNhaThuoc\Login\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\bài tập\BTLQuanLyNhaThuoc\Login\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\bài tập\BTLQuanLyNhaThuoc\Login\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\bài tập\BTLQuanLyNhaThuoc\Login\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\bài tập\BTLQuanLyNhaThuoc\Login\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\bài tập\BTLQuanLyNhaThuoc\Login\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\bài tập\BTLQuanLyNhaThuoc\Login\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\bài tập\BTLQuanLyNhaThuoc\Login\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\bài tập\BTLQuanLyNhaThuoc\Login\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\bài tập\BTLQuanLyNhaThuoc\Login\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\bài tập\BTLQuanLyNhaThuoc\Login\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\bài tập\BTLQuanLyNhaThuoc\Login\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\bài tập\BTLQuanLyNhaThuoc\Login\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\bài tập\BTLQuanLyNhaThuoc\Login\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\bài tập\BTLQuanLyNhaThuoc\Login\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\bài tập\BTLQuanLyNhaThuoc\Login\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\bài tập\BTLQuanLyNhaThuoc\Login\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\bài tập\BTLQuanLyNhaThuoc\Login\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\bài tập\BTLQuanLyNhaThuoc\Login\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\bài tập\BTLQuanLyNhaThuoc\Login\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\bài tập\BTLQuanLyNhaThuoc\Login\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\bài tập\BTLQuanLyNhaThuoc\Login\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\bài tập\BTLQuanLyNhaThuoc\Login\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\bài tập\BTLQuanLyNhaThuoc\Login\obj\Debug\QLNT.csproj.AssemblyReference.cache
+F:\bài tập\BTLQuanLyNhaThuoc\Login\obj\Debug\QLNT.csproj.SuggestedBindingRedirects.cache
+F:\bài tập\BTLQuanLyNhaThuoc\Login\obj\Debug\Login.AddCustomer.resources
+F:\bài tập\BTLQuanLyNhaThuoc\Login\obj\Debug\Login.AddSup.resources
+F:\bài tập\BTLQuanLyNhaThuoc\Login\obj\Debug\Login.AddUser.resources
+F:\bài tập\BTLQuanLyNhaThuoc\Login\obj\Debug\Login.Admin.resources
+F:\bài tập\BTLQuanLyNhaThuoc\Login\obj\Debug\Login.DeleteSup.resources
+F:\bài tập\BTLQuanLyNhaThuoc\Login\obj\Debug\Login.EditCustomer.resources
+F:\bài tập\BTLQuanLyNhaThuoc\Login\obj\Debug\Login.EditSup.resources
+F:\bài tập\BTLQuanLyNhaThuoc\Login\obj\Debug\Login.EditUser.resources
+F:\bài tập\BTLQuanLyNhaThuoc\Login\obj\Debug\Login.DeleteCustomer.resources
+F:\bài tập\BTLQuanLyNhaThuoc\Login\obj\Debug\Login.DeleteUser.resources
+F:\bài tập\BTLQuanLyNhaThuoc\Login\obj\Debug\Login.Form1.resources
+F:\bài tập\BTLQuanLyNhaThuoc\Login\obj\Debug\Login.HDNhapHang.resources
+F:\bài tập\BTLQuanLyNhaThuoc\Login\obj\Debug\Login.HDXuatHang.resources
+F:\bài tập\BTLQuanLyNhaThuoc\Login\obj\Debug\Login.ManageBill.resources
+F:\bài tập\BTLQuanLyNhaThuoc\Login\obj\Debug\Login.ManageMed.resources
+F:\bài tập\BTLQuanLyNhaThuoc\Login\obj\Debug\Login.ManageReceipt.resources
+F:\bài tập\BTLQuanLyNhaThuoc\Login\obj\Debug\Login.Properties.Resources.resources
+F:\bài tập\BTLQuanLyNhaThuoc\Login\obj\Debug\Login.User.resources
+F:\bài tập\BTLQuanLyNhaThuoc\Login\obj\Debug\QLNT.csproj.GenerateResource.cache
+F:\bài tập\BTLQuanLyNhaThuoc\Login\obj\Debug\QLNT.csproj.CoreCompileInputs.cache
+F:\bài tập\BTLQuanLyNhaThuoc\Login\obj\Debug\QLNT.csproj.CopyComplete
+F:\bài tập\BTLQuanLyNhaThuoc\Login\obj\Debug\Login.exe
+F:\bài tập\BTLQuanLyNhaThuoc\Login\obj\Debug\Login.pdb
